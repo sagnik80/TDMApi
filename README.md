@@ -18,5 +18,8 @@ Reporting
 For test results Reporting I have used extent report plug-in with cucumber reports.
 HTML Reports can be found under target cucumber reports
 
+Before run
+Please update your Key in Global.properties file under src/main/java/com/sagnik80/Global else the Build will fail
+
 To run
 Just clone the project and Run As mvn -test 
