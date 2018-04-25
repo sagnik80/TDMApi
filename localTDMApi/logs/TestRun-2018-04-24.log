@@ -1,0 +1,14 @@
+21:15:44.867 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Negative Flow Movie
+21:15:45.031 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
+21:15:45.033 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
+21:15:45.036 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Positive Flow - Token
+21:15:45.173 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Response Received Token
+21:15:45.174 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - {"success":true,"expires_at":"2018-04-25 02:15:44 UTC","request_token":"88c20492fe26834214623cba092ac36b1489fd9f"}
+21:15:45.183 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Authorized User 88c20492fe26834214623cba092ac36b1489fd9f
+21:15:45.185 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Negative Flow - Token
+21:15:45.371 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Response Received Token
+21:15:45.372 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - {"status_code":7,"status_message":"Invalid API key: You must be granted a valid key."}
+21:15:45.380 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - For Invalid User Invalid API key: You must be granted a valid key.
+21:15:45.383 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Positive Flow TV
+21:15:45.570 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
+21:15:45.575 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Negative Flow TV
