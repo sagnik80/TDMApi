@@ -1,25 +1,22 @@
-21:15:45.740 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
-21:16:39.611 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Positive Flow Movie
-21:16:41.276 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
-21:16:41.278 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
-21:16:41.280 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Negative Flow Movie
-21:16:41.434 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
-21:16:41.435 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
-21:16:41.439 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Positive Flow - Token
-21:16:41.611 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Response Received Token
-21:16:41.611 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - {"success":true,"expires_at":"2018-04-25 02:16:40 UTC","request_token":"aa59badc82c0149e56697003d3cc6b60b6134434"}
-21:16:41.621 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Authorized User aa59badc82c0149e56697003d3cc6b60b6134434
-21:16:41.623 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Negative Flow - Token
-21:16:41.772 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Response Received Token
-21:16:41.772 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - {"status_code":7,"status_message":"Invalid API key: You must be granted a valid key."}
-21:16:41.781 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - For Invalid User Invalid API key: You must be granted a valid key.
-21:16:41.783 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Positive Flow TV
-21:16:41.977 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
-21:16:41.981 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Negative Flow TV
-21:16:42.137 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
-21:20:49.887 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Positive Flow Movie
-21:20:51.880 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
-21:20:51.880 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
-21:20:51.881 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Negative Flow Movie
-21:20:52.065 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
-21:20:52.065 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
+22:29:04.467 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Positive Flow TV
+22:29:04.628 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
+22:29:04.633 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Negative Flow TV
+22:29:04.778 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
+22:35:20.607 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Positive Flow Movie
+22:35:22.619 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
+22:35:22.622 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
+22:35:22.624 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Negative Flow Movie
+22:35:22.808 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Response Received
+22:35:22.809 [main] INFO  com.sagnik80.StepDefinitions.ValidateMovieCertificate - Then
+22:35:22.811 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Positive Flow - Token
+22:35:23.018 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Response Received Token
+22:35:23.018 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - {"success":true,"expires_at":"2018-04-28 03:35:22 UTC","request_token":"c7d73a484b519eb509523c9dcda02a53a94bd29c"}
+22:35:23.028 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Authorized User c7d73a484b519eb509523c9dcda02a53a94bd29c
+22:35:23.031 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Negative Flow - Token
+22:35:23.171 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - Response Received Token
+22:35:23.172 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - {"status_code":7,"status_message":"Invalid API key: You must be granted a valid key."}
+22:35:23.180 [main] INFO  com.sagnik80.StepDefinitions.ValidateToken - For Invalid User Invalid API key: You must be granted a valid key.
+22:35:23.182 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Positive Flow TV
+22:35:23.363 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received
+22:35:23.368 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Negative Flow TV
+22:35:23.515 [main] INFO  com.sagnik80.StepDefinitions.ValidateTvCertificate - Response Received

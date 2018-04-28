@@ -4,8 +4,6 @@ import static io.restassured.RestAssured.given;
 
 import java.io.IOException;
 
-import org.testng.annotations.Test;
-
 import com.sagnik80.Global.BaseData;
 import com.sagnik80.Resources.PayLoad;
 

@@ -3,9 +3,6 @@ package com.sagnik80.Requests;
 import static io.restassured.RestAssured.given;
 
 import java.io.IOException;
-
-import org.testng.annotations.Test;
-
 import com.sagnik80.Global.BaseData;
 
 import io.restassured.RestAssured;

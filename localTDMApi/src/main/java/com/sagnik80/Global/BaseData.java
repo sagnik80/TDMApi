@@ -2,8 +2,6 @@ package com.sagnik80.Global;
 
 import java.io.IOException;
 
-import org.testng.annotations.Test;
-
 import io.restassured.path.json.JsonPath;
 import io.restassured.path.xml.XmlPath;
 import io.restassured.response.Response;
